@@ -1,0 +1,11 @@
+UzHackingTool/
+├── uz_hacking_tool.py      # Asosiy dastur (GUI + CLI)
+├── setup.sh                # Avtomatik o'rnatish skripti
+├── install.sh              # Tezkor o'rnatish
+├── requirements.txt        # Python paketlar
+├── README.md               # To'liq dokumentatsiya
+├── LICENSE                 # MIT litsenziya
+├── .gitignore              # Git uchun
+├── wifite_custom.py        # Wifite + rockyou integratsiyasi
+└── wordlists/              # Wordlist papkasi
+    └── rockyou.txt.gz      # Rockyou (avtomatik yuklanadi)

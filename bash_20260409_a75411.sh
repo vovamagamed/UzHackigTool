@@ -1,0 +1,1 @@
+python3 uz_hacking_tool.py
