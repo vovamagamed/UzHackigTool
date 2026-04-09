@@ -74,3 +74,80 @@ bash setup.sh
 
 # 6. Dasturni ishga tushirish
 python3 uz_hacking_tool.py
+
+💻Kali-linux
+# 1. Repositoriyani klonlash
+git clone https://github.com/CyberRazor/UzHackingTool.git
+
+# 2. Papkaga o'tish
+cd UzHackingTool
+
+# 3. Bajarish huquqini berish
+chmod +x setup.sh install.sh
+
+# 4. O'rnatish
+sudo bash setup.sh
+
+# 5. Dasturni ishga tushirish
+python3 uz_hacking_tool.py
+
+# Yoki GUI versiya uchun
+python3 uz_hacking_tool.py --gui
+🪟 Windows uchun
+# 1. Python o'rnating: https://www.python.org/downloads/
+# 2. Git o'rnating: https://git-scm.com/download/win
+# 3. Komanda qatorida (Admin sifatida):
+
+git clone https://github.com/CyberRazor/UzHackingTool.git
+cd UzHackingTool
+python -m pip install -r requirements.txt
+python uz_hacking_tool.py
+🐧 macOS uchun
+# 1. Homebrew o'rnatish (agar yo'q bo'lsa)
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+# 2. Kerakli paketlar
+brew install git python3
+
+# 3. Tool'ni o'rnatish
+git clone https://github.com/CyberRazor/UzHackingTool.git
+cd UzHackingTool
+pip3 install -r requirements.txt
+python3 uz_hacking_tool.py
+
+
+🎮 Qanday ishlatish?
+python3 uz_hacking_tool.py
+
+
+Menyu ko'rinishi:
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                         UzHackingTool v5.0                                     ║
+║                      Cyber Razor tomonidan ishlab chiqilgan                     ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+
+═══════════════════════════════════════════════════════════════════════════════
+
+[01] 🔧 Kerakli paketlar & Yangilanish
+[02] 🎣 Phishing Tool (Zphisher)
+[03] 📷 WebCam Hack (SayCheese)
+[04] 🔍 Subdomain Scaner (Subfinder)
+[05] 📧 Email Bomber
+[06] 💥 DDOS Hujum (Hammer)
+[07] 📍 IP Ma'lumot (IP-Tracer)
+[08] 🔌 Port Scaner (Nmap)
+[09] 💉 SQL Injeksiya (sqlmap)
+[10] 📡 Wi-Fi Tarmoq xavfsizligi
+[11] 🔓 Wi-Fi Hack (Wifite + Rockyou)
+[12] 🔐 Hash Cracking (John/Hashcat)
+[13] 📺 Qanday ishlatish? (Video)
+[14] 🗑️ Yuklangan dasturlarni o'chirish
+[15] 🌐 DNS Lookup
+[16] 📋 Whois ma'lumot
+[17] 🗺️ Geolocation
+[18] 🖥️ GUI Rejimi
+[00] 🚪 Chiqish
+
+═══════════════════════════════════════════════════════════════════════════════
+
+UzHackingTool ➜ 
