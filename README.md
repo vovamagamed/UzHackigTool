@@ -3,6 +3,12 @@
   
 # 🛠️ UzHackingTool v5.0
 
+
+<img width="1907" height="986" alt="Снимок экрана 2026-04-10 213912" src="https://github.com/user-attachments/assets/c0d102fb-7705-4afe-9677-5048a3e7b020" />
+
+
+
+
 <img src="https://raw.githubusercontent.com/CyberRazor/UzHackingTool/main/logo.png" alt="UzHackingTool Logo" width="200">
 
 **O'zbekistonning eng kuchli penetration testing vositalar to'plami**
