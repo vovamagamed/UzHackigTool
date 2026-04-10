@@ -89,7 +89,7 @@ chmod +x setup.sh install.sh
 sudo bash setup.sh
 
 # 5. Dasturni ishga tushirish
-python3 uz_hacking_tool.py
+python python_2026.py
 
 # Yoki GUI versiya uchun
 python3 uz_hacking_tool.py --gui
